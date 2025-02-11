@@ -1,16 +1,34 @@
-Arthur Victor de Souza Gonçalves
-Network Enthusiast & Systems Developer
-Hello! I'm passionate about information systems and network infrastructures. Currently, I'm a Systems Analysis and Development student and a professional in network and infrastructure. I’m always expanding my knowledge and staying updated on the latest IT trends.
+<h1 align="center">👋 Hello, I'm Arthur Victor de Souza Gonçalves</h1>
 
-Technologies I'm learning and working with:
-Python 🐍
-TypeScript 🔶
-Bash 🖥️
-Linux 🐧
-Networking & Network Security 🔐
-Data Analysis 📊
-APIs 🌐
-Databases 🗄️
-Router/Switch Configuration 🌐
-Network Monitoring 📡
-Specialized in network configuration, troubleshooting, and improving system performance.
+<p align="center">
+  💻 Networks and network infrastructure | 🌍 Passionate About Technology
+</p>
+
+<p align="center">
+
+</p><br><br>
+
+## 🚀 Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,bash,html,css,shell)](https://skillicons.dev)<br><br>
+
+## 🛠️ Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=linux,pycharm,vscode)](https://skillicons.dev)<br><br>
+
+## 🌐 Networking & Network Security
+Specialized in **network configuration**, **troubleshooting**, and improving **system performance**.  
+**Skills**: Router/Switch Configuration, Network Monitoring, VPNs, Firewall Configuration.
+
+---
+
+## 📫 Contact Me
+
+Feel free to connect with me for collaborations or anything tech-related!
+
+<p align="center">
+  <a href="https://www.instagram.com/yourprofile/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-ff4081?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
