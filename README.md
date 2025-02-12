@@ -4,9 +4,7 @@
   💻 Network Operation Center | 🌍 Passionate About Technology
 </p>
 
-<p align="center">
-  ![Arthur's Photo](https://img.freepik.com/vetores-gratis/armazenamento-de-dados-nas-nuvens_1284-32729.jpg)
-</p><br><br>
+<br><br>
 
 ## 🚀 Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=python,typescript,bash,html,css,shell)](https://skillicons.dev)<br><br>
