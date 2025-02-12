@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Arthur Victor de Souza Gonçalves</h1>
 
 <p align="center">
-  💻 Systems Development Student | 🌍 Passionate About Technology
+  💻 Network Operation Center | 🌍 Passionate About Technology
 </p>
 
 <p align="center">
